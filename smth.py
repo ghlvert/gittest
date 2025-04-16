@@ -5,4 +5,5 @@ for _ in range(10):
     print('laslasl')
     print('third branch')
     print('1')
+    print('2')
     
