@@ -1,3 +1,2 @@
-print('no')
-print('1')
-print('daniil romanovich 🙃')
+for _ in range(10):
+    print('daniil romanovich 🙃')
