@@ -4,4 +4,4 @@ for _ in range(10):
     print('second')
     print('laslasl')
     print('third branch')
-
+    print('1')
